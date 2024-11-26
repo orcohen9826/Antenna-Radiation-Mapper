@@ -1,6 +1,6 @@
 # Antenna Radiation Mapper
 
-![Antenna Radiation Mapper]Images/1.jpg)
+![Antenna Radiation Mapper]images/1.jpg)
 
 
 ## Overview
