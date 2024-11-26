@@ -1,6 +1,6 @@
 # Antenna Radiation Mapper
 
-![Antenna Radiation Mapper](Images/7.png)
+
 
 
 ## Overview
@@ -15,6 +15,8 @@ Note: This project does not include signal processing features, as they are part
 - **Automated Measurements:** Handle sampling, gain calculations, and graph generation.
 - **Connectivity:** Connect over WiFi or serial port for data collection.
 - **Modular Design:** Easily swap antennas for testing different configurations.
+
+![Antenna Radiation Mapper](Images/7.png)
 
 ## Components Needed
 
