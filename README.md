@@ -14,6 +14,7 @@ Note: This project does not include signal processing features, as they are part
 - **Modular Design:** Easily swap antennas for testing different configurations.
 
 ![Antenna Radiation Mapper](Images/7.png)
+![Antenna Radiation Mapper](Images/8.png)
 
 ## Components Needed
 
