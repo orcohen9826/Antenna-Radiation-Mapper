@@ -8,7 +8,7 @@ Note: This project does not include signal processing features, as they are part
 
 ## Key Features
 
-- **Precision Control:** Rotate the antenna with 0.01-degree accuracy.
+- **Precision Control:** Rotate the antenna with high precision (approximately 310 steps per degree).
 - **Automated Measurements:** Handle sampling, gain calculations, and graph generation.
 - **Connectivity:** Connect over WiFi or serial port for data collection.
 - **Modular Design:** Easily swap antennas for testing different configurations.
