@@ -671,10 +671,9 @@ def rename_recordings():
         os.rename(CSV_FILENAME, new_filename)
         print(f"CSV file renamed to {new_filename}")
         # Plot radiation patterns after renaming the file
-        plot_gain_vs_angle('Antenna_Data_in_Correct_Format.csv', 3039.39)
-        plot_gain_for_all_frequencies('Antenna_Data_in_Correct_Format.csv')
-        
-        plot_polar_radiation_pattern('Antenna_Data_in_Correct_Format.csv', DEFAULT_FREQUENCIES)
+        plot_gain_vs_angle(CSV_FILENAME, 3039.39)
+        plot_gain_for_all_frequencies(CSV_FILENAME)
+        plot_polar_radiation_pattern(CSV_FILENAME, DEFAULT_FREQUENCIES)
 
 def main():
     global SERIAL_PORT
